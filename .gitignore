@@ -113,8 +113,7 @@ nbactions.xml
 nb-configuration.xml
 
 ## Gradle
-
-/client//local.properties
+/client/local.properties
 /client/.gradle/
 /client/gradle-app.setting
 /client/build/
